@@ -1,0 +1,29 @@
+{
+  "name": "Kotos Jitilon",
+  "short_name": "Kotos",
+  "start_url": "https://kotos.framer.ai/",
+  "scope": "https://kotos.framer.ai/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://tulipshots.github.io/kotos/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://tulipshots.github.io/kotos/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://tulipshots.github.io/kotos/android-chrome-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
